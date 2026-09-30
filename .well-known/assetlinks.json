@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.divisionblueimpact_glitch.twa",
+        "sha256_cert_fingerprints": ["65:30:D0:AC:33:A3:19:33:9B:00:57:B8:80:C6:7C:59:3E:34:13:0F:72:A8:E9:9C:FF:D5:0E:68:8A:20:99:D8"]
+      }
+    }]
